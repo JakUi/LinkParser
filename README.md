@@ -1,2 +1,2 @@
 # LinkParser
-Another one sitemap generatol
+Another one sitemap generator
